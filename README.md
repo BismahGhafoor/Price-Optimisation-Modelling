@@ -25,7 +25,7 @@ To get started with this project:
 
 ### Clone the Repository:
 ```bash
-git clone [repository URL]
+git clone https://github.com/BismahGhafoor/Price-Optimisation-Modelling.git
 ```
 
 ### Install Dependencies:
